@@ -1,0 +1,26 @@
+#blogTitle {
+/* vertical-align: text-top;
+font-size: larger; */
+display: flex;
+flex-direction: row;
+
+
+}
+
+/* #setOfLinks {
+ display: flex;
+ flex-direction: row;
+ margin: 20px;
+} */
+
+
+
+
+
+
+.header_container {
+    display: flex;
+    justify-content: right;
+    flex-direction: row; */
+    
+}
