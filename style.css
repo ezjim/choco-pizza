@@ -1,0 +1,38 @@
+#blogTitle {
+/* vertical-align: text-top;
+font-size: larger; */
+display: flex;
+flex-direction: row;
+
+
+}
+
+/* #setOfLinks {
+ display: flex;
+ flex-direction: row;
+ margin: 20px;
+} */
+
+
+
+.header_container {
+    display: flex;
+    justify-content: right;
+    flex-direction: row;
+    
+}
+
+.ingredients_table {
+    
+    background: url(https://raw.githubusercontent.com/alchemycodelab/alchemy-bootcamp-i-january-2019/master/curriculum/week-02/class-09/LAB-10/LAB-10a-chocolate-pizza/lab-assets/list-bg.png?token=ANREWSG2EAQM6LVOCTTARBS6HB3UU);
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+ul {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin-left: 280px;
+    margin-top: 75px;
+
+}
